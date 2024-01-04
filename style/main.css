@@ -108,7 +108,7 @@ header {
 .section_1_img {
   position: absolute;
   display: flex;
-  padding-left: 44%;
+  float: right;
 }
 
 .section_1_text_block {
